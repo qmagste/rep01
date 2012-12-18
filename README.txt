@@ -1,1 +1,1 @@
-THIS IS A README, SO READ ME!!!!!!!!!!
+THIS IS A README, SO DON'T READ ME!!!!!!!!!!
